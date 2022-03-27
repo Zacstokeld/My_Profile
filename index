@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zachary Stokeld - My Profile</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="ePortfolio for Student Name."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+<style>
+p.ex1 {
+  margin: 10px 5% 10px 2%;
+max-width: auto;
+}
+</style>
+
+</head>
+<body id="top">
+<style>
+body {
+ background: aliceblue;
+ color: darkslateblue;
+}
+</style>
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Student Name" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Zachary Stokeld</h1>
+			<h2 class="quickFade delayThree">My Profile</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>Student #: s3937811</li>
+				<li>Email address: <a href="mailto:s3937811@student.rmit.edu.au" target="_blank">s3937811@student.rmit.edu.au</a></li>
+				<li>w: <a href="http://www.github.com">www.github.com/</a></li>
+				<li>Mobile: +61 405 493 085</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>A little bit about me</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>My interest in IT</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p class="ex1">My main interest in IT is that it allows us to interact with the modern world. So many faucets of life either been engulfed by computers (communication, online shopping, transportation, education), and knowing how they function, and how the user interfaces with them, is a necessary skill today. It was my interest in sports analytics that lead me to IT, with the potential of using numbers to quantify a performance, at more than a surface level, drew me in. the further I delved into this subject, the more I saw computers playing a role in processing large amounts of data and making it manageable for statisticians to create new metrics. It led me to start dabbling in coding and trying to teach a machine to do something a human could never do. I find programming in python to be especially fun, as you can tinker, adjust and learn while trying to achieve your result, like some kind of virtual puzzle.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Ideal Job</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Software Developer</h2>
+					<h3>Description</h3>
+					<p class="ex1">The Primary goal of this position is to use coding and modelling to assist in data analysis for clients. What interests me about this role is both its role in statistics and data modelling, and its focus on problem solving. As I said in my Background (LINK TO BACKGROUND), my interest in number crunching stems from my love of sports statistics, and I am excited by the thought of expanding that into the field of business. The role also appeals to my focus on problem solving, and project minded work ethic, as having a single larger goal to achieve tends to get better results out of myself.</p>
+					<h3>Skills I have</h3>
+					<p class="ex1">I have a beginner’s understanding of Python and not much else in the way of technical skill or experience in any role.</p>
+					<h3>Skills I Need</h3>
+					<p class="ex1">The main technical skill required for the role is knowing Python coding language, as it is stated as the ‘preferred’ language. However, adeptness at C, C++ and C# is also required. You are also required to have a focus on unit-testing, bug tracking, source control, build systems and agile methodologies. </p>
+					<h3>Learning Plan</h3>
+					<p class="ex1">I am currently enrolled in introduction to programming, which is python language course. I intend on continuing to have programming as my main focus throughout my studies in order to not only increase my level of knowledge in Python, but also to introduce myself to various other languages used frequently such as Java and C#. This study will also help my ability to unit test and bug track. In terms of familiarising myself with agile methodologies and their application, once I have built a skill base, trying to get and internship or a junior software developer role will greatly improve the more abstract skills I am currently lacking.</p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Personality Profile</h1>
+				<img src="gandalf.png" alt="Gandalf" />
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Myers Briggs Type Indicator</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+					<h3>Learning styles</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Big 5 personality</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Interpretation</h3>
+					<p class="ex1">The Strength and weaknesses of my Myers-Briggs personality type largely capture my own self-assessment of my own characteristics and faults, and are reflective of many issues I tend to face. However, the descriptions focusing on creativity and originality I take with a grain of salt, as I consider myself far more interested in following a structure and process when trying to achieve a goal. The open-mindedness and adaptability are two associated traits of the mediator that I do consider my strengths. As a Visual and kinesthetics learner, I struggle to maintain information that is spoken out loud, and have trouble understanding things without seeing or doing them. I am far more comfortable being given a visual list of objectives or task that can be learnt as I am doing it. The Big-5 personality test indicates similar results as the Myers-Briggs, as agreeableness and openness to new experiences are two major factors. It also indicates a similar lack of focused discipline
+
+I think that these results will make me have a larger focus on working as a complimentary piece in a team setting. I should work well with other teammates and help make interactions between other members run smoothly. In addition to this, I may have to make a special effort to increase my individual discipline and work ethic in order to more not bog the team or the project down. I should take a larger role in being a participant in group discussions rather than a passive listener, as I will get far more out of it that way
+
+When making a team, my flexibility and open-mindedness lend itself to various different working situations and the unique personalities that make them up. Primarily, I will get the most production out of myself if grouped with strong-minded and driven co-workers, and can help grease the wheels of interactions between those, should it be necessary. This will also be helpful in motivating me as I can feed off of their passion, and use it to drive myself harder.
+</p>
+					<p><img src="mbti_results.png" alt="MBTI Results" /></p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Project Idea</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Overview</h2>
+					<p class="ex1">I intend to create a mobile App that allows you to view, sort and compare AFL & AFLW statistics from through out history. The app will pull the statistics from a database and will allow you to easily query statistics and pull and sort them as you require. This will be achieved through the use of Python, the SQLite module and Pandas which will allow for self-containment, zero-configuration and serverless application.</p>
+				</article>
+
+				<article>
+					<h2>Motivation</h2>
+					<p class="ex1">The AFL as an organisation has long been decades behind its international counterparts in regards to the way it delivers its content. From being forced to listen to Brian Taylor every Friday to the disaster that is the official AFL mobile app, it is extremely challenging for consumers to access the information they want. There is a need for a user-friendly, smarter application especially amongst the large amounts of sports gambling, and the thousands of fantasy football coaches who want quick and easy access to whatever stats with whatever parameters they want.</p>
+				</article>
+				
+				<article>
+					<h2>Description</h2>
+					<p class="ex1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+
+				<article>
+					<h2>Tools and Technologies</h2>
+					<p class="ex1">LA Python Shell and a code editor, such as Atom, would be needed in order to write the code. BeeWare is an open-source mobile app creation framework that allows you to write in Python and release the application on multiple platforms and OS’s. Its tools allow you to run python and package projects so your app can work on different devices. It also has a relatively low skill-curve, making it a feasible option for someone without much of a skill base. Specifically, ill be using the BeeWare Briefcase tool, which converts your Python code into a standalone application.</p>
+				</article>
+
+				<article>
+					<h2>Skills Required</h2>
+					<p class="ex1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+
+				<article>
+					<h2>Outcome</h2>
+					<p class="ex1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+</body>
+</html>
